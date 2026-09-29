@@ -1,4 +1,4 @@
-\# Albert Bunyi's Teaching Portfolio
+# Albert Bunyi's Teaching Portfolio
 
 
 
