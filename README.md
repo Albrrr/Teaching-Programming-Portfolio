@@ -5,3 +5,5 @@
 "Explain Your Program with Repeats Video": https://youtu.be/AxxmOoSx8BI
 
 "Animal Parade Quest Explanation Video": https://youtu.be/7vgzogcI-Ow
+
+"Nested Loops Explanation Video": https://youtu.be/Mx0fLZESJg8
