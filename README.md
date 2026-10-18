@@ -7,3 +7,5 @@
 "Animal Parade Quest Explanation Video": https://youtu.be/7vgzogcI-Ow
 
 "Nested Loops Explanation Video": https://youtu.be/Mx0fLZESJg8
+
+"Monkey Events Explanation Video": https://youtu.be/ydEEtrhaC4o
