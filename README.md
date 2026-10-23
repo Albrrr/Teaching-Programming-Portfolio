@@ -9,3 +9,5 @@
 "Nested Loops Explanation Video": https://youtu.be/Mx0fLZESJg8
 
 "Monkey Events Explanation Video": https://youtu.be/ydEEtrhaC4o
+
+"Explain Variable Usage in a Program": https://youtu.be/r5dTnydd-a8 
