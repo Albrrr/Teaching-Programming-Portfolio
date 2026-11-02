@@ -11,3 +11,5 @@
 "Monkey Events Explanation Video": https://youtu.be/ydEEtrhaC4o
 
 "Explain Variable Usage in a Program": https://youtu.be/r5dTnydd-a8 
+
+"Conditional Loops Explanation Video": https://youtu.be/tsCK-9mJMW0?si=hGvLWorw0VwxAMfm
